@@ -1,1 +1,3 @@
 *.log
+*.db
+dir_to_ignore/target
